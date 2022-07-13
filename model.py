@@ -10,9 +10,7 @@ import pandas as pd
 import numpy as np
 
 
-
 # Importing natural language processing packages
-
 import string
 from nltk.corpus import stopwords
 
@@ -279,7 +277,4 @@ if __name__ == "__main__":
         conf_mat
     ))
 
-#     preds_df = predict(best_model, X_test, y_test)
-
-#     print(preds_df)
 
