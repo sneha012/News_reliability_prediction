@@ -12,7 +12,7 @@ The training dataset has over 20,000 articles with fields for the article title,
 
 ![results](results_screenshot.png)
 
-## Future Work
+## Future Work (Aspects that could be improved)
 
 Here are a few things that I could try for better results:
 
